@@ -50,8 +50,7 @@
 
 <h3 align="left">📫 How to reach me:</h3>
 <p align="left">
-📧 sdevabhijna@gmail.com  
-📞 412-909-9704  
+📧 sdevabhijna@gmail.com   
 🌐 <a href="https://linkedin.com/in/abhijna-sahadeva" target="blank">linkedin.com/in/abhijna-sahadeva</a>  
 🔗 <a href="https://github.com/abhijna123" target="blank">github.com/abhijna123</a>  
 </p>
