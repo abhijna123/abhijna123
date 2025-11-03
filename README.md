@@ -40,14 +40,6 @@
 
 ---
 
-<h3 align="left">💡 Featured Projects:</h3>
-
-•⁠  ⁠🩺 *AI-Enabled Concierge Care Platform* – AI-driven system integrating LLMs and predictive analytics to enhance clinical decision support and patient personalization.  
-•⁠  ⁠💧 *KidneyCare Risk Tracker* – Full-stack Flask + PostgreSQL DSS for Chronic Kidney Disease risk classification and population health analytics.  
-•⁠  ⁠🧠 *Post Graduate Admission Prediction System* – Published in IRJET, predicting academic admission outcomes using ML models.  
-
----
-
 <h3 align="left">📫 How to reach me:</h3>
 <p align="left">
 📧 sdevabhijna@gmail.com   
