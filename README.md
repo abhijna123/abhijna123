@@ -1,9 +1,9 @@
-<h1 align="center">Hi there 👋, I'm Abhijna Sahadeva</h1>
-<h3 align="center">Healthcare Data Analyst | Data Engineer | AI & ML Enthusiast</h3>
+<h1 align="center">Hi there, I'm Abhijna Sahadeva</h1>
+<h3 align="center"> Data Analyst | Data Engineer | Healthcare Data Analyst | AI & ML Enthusiast</h3>
 
 <p align="center">
 🎓 MS in Health Care Analytics & Information Technology @ <b>Carnegie Mellon University</b> <br>
-💻 Former Data Engineer @ <b>314e Corporation</b> | Healthcare Analytics Intern @ <b>Pandora Family Medicine</b> <br>
+💻 Former Software Engineer @ <b>314e Corporation</b> | Healthcare Delivery and Reimbursement Analyst Intern @ <b>Pandora Family Medicine</b> <br>
 🚀 Passionate about leveraging data, AI, and analytics to improve healthcare delivery, revenue integrity, and population health outcomes.
 </p>
 
