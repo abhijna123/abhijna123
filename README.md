@@ -57,4 +57,4 @@
 
 ---
 
-<h3 align="center">⚡ “Turning clinical and claims data into measurable healthcare outcomes.”</h3>
+<h3 align="center">⚡ “Turning data into measurable and impactable outcomes.”</h3>
